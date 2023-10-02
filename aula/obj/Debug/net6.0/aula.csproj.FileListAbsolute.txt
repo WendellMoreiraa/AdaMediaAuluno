@@ -1,0 +1,14 @@
+C:\Users\kingo\source\repos\tech\aula\aula\bin\Debug\net6.0\aula.exe
+C:\Users\kingo\source\repos\tech\aula\aula\bin\Debug\net6.0\aula.deps.json
+C:\Users\kingo\source\repos\tech\aula\aula\bin\Debug\net6.0\aula.runtimeconfig.json
+C:\Users\kingo\source\repos\tech\aula\aula\bin\Debug\net6.0\aula.dll
+C:\Users\kingo\source\repos\tech\aula\aula\bin\Debug\net6.0\aula.pdb
+C:\Users\kingo\source\repos\tech\aula\aula\obj\Debug\net6.0\aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingo\source\repos\tech\aula\aula\obj\Debug\net6.0\aula.AssemblyInfoInputs.cache
+C:\Users\kingo\source\repos\tech\aula\aula\obj\Debug\net6.0\aula.AssemblyInfo.cs
+C:\Users\kingo\source\repos\tech\aula\aula\obj\Debug\net6.0\aula.csproj.CoreCompileInputs.cache
+C:\Users\kingo\source\repos\tech\aula\aula\obj\Debug\net6.0\aula.dll
+C:\Users\kingo\source\repos\tech\aula\aula\obj\Debug\net6.0\refint\aula.dll
+C:\Users\kingo\source\repos\tech\aula\aula\obj\Debug\net6.0\aula.pdb
+C:\Users\kingo\source\repos\tech\aula\aula\obj\Debug\net6.0\aula.genruntimeconfig.cache
+C:\Users\kingo\source\repos\tech\aula\aula\obj\Debug\net6.0\ref\aula.dll
